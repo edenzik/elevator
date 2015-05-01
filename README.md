@@ -1,3 +1,6 @@
+[![Code Climate](https://codeclimate.com/github/edenzik/elevator/badges/gpa.svg)](https://codeclimate.com/github/edenzik/elevator)
+
+
 Eden Zik
 Elevator Assignment
 COSI105A
